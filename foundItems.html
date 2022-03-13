@@ -1,0 +1,10 @@
+<div>
+  <table>
+  <ul>
+    <li ng-repeat="item in list.items" >
+  {{ item.name }} , {{ item.short_name }} , {{ item.description }} <button class="btn btn-danger" ng-click="list.onRemove({index: $index});">Don't want this one!</button>
+    </li>
+  </ul>
+</table>
+  <div class="nothingFound" ng-show="list.message">{{list.message}}</div>
+</div>
