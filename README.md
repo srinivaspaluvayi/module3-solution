@@ -73,12 +73,6 @@ cd module3-solution
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🎓 Acknowledgments
 
 Project built as part of [Coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers)'s **Module 3 Assignment**  
