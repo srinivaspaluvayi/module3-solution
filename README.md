@@ -75,5 +75,5 @@ cd module3-solution
 
 ## 🎓 Acknowledgments
 
-Project built as part of [Coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers)'s **Module 3 Assignment**  
+Project built as part of [Coursera](https://www.coursera.org/learn/single-page-web-apps-with-angularjs)'s **Module 3 Assignment**  
 Course by [Johns Hopkins University](https://www.jhu.edu/)
